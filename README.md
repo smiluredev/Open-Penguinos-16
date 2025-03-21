@@ -1,6 +1,6 @@
 # Open Penguinos 16
 Super Penguinos 16 - Github Repositorie
-# How To Import To GDevelop
+# How To Import It On GDevelop
 1. Download Gdevelop Engine On: (https://gdevelop.io/pt-br)
 2. Create A Folder On Your Files Called: "OpenPenguinos16"
 3. Copy The Repo's Files On Your Created Folder
